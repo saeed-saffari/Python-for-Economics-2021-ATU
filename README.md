@@ -11,7 +11,7 @@ We will begin with an introduction to general-purpose programming: data types, c
 
 ## COURSE OUTLINES
 
-- Python Setup
+- [Python Setup](https://github.com/saeed-saffari/Basic_Python_for_Economics_2021/tree/main/Python%20Setup)
 - Object and Data Structure Basics
 - Python Statements and Functions
 - Packages:
