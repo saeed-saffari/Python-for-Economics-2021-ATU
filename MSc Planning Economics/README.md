@@ -1,4 +1,15 @@
-# Introduction and Python Setup
+# Python for Planning Economics
+
+## COURSE OUTLINES
+
+- Python Setup
+- Object and Data Structure Basics
+- Python Statements and Functions
+- Packages:
+  - NumPy
+  - Pandaas
+- Markdown 
+
 
 ## The requirements and recommendations
 
