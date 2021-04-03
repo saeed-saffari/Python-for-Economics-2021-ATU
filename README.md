@@ -1,6 +1,10 @@
-# Python_for_Economics_2021
+# Python for Economics 2021
 
 Contact: m.saeed1024@yahoo.com
+
+**Teacher Assistant At Allameh Tabataba'i Univeristy**
+
+**Spring 2021**
 
 
 ## AIMS
@@ -9,13 +13,8 @@ This course aims to acquaint students with the basics of the Python programming 
 
 We will begin with an introduction to general-purpose programming: data types, conditionals, loops, functions, and classes. We will investigate how to write succinct and efficient code. We will then see how to gather data from the web by using the python library and represent it inside python as a DataFrame. We will investigate how programming can help us clean and present the data in an informative and elegant manner. Finally, we will focus on using data to answer real economic questions, covering popular exploratory and statistical data analysis techniques.
 
-## COURSE OUTLINES
+## Parts
 
-- [Python Setup](https://github.com/saeed-saffari/Basic_Python_for_Economics_2021/tree/main/Python%20Setup)
-- Object and Data Structure Basics
-- Python Statements and Functions
-- Packages:
-  - NumPy
-  - Matplotlib
-  - Pandaas
-- Markdown 
+- MSc Planning Economics
+- BSc Econometrics
+- BSc Macroeconomics
