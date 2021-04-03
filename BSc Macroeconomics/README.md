@@ -8,7 +8,7 @@
 - Packages:
   - NumPy
   - Matplotlib
-  - Pandaas
+  - Pandas
 - Markdown 
 
 
