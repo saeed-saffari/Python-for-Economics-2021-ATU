@@ -7,7 +7,7 @@
 - Python Statements and Functions
 - Packages:
   - NumPy
-  - Pandaas
+  - Pandas
 - Markdown 
 
 
