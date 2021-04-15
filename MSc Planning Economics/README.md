@@ -4,7 +4,7 @@
 
 - [Introduction](https://github.com/saeed-saffari/Python-for-Economics-2021-ATU/blob/main/MSc%20Planning%20Economics/Python%20for%20Economics%20-%20Introduction%20-%20ATU%20-%20spr%202021.pdf)
 - Python Setup
-- Object and Data Structure Basics
+- [Object and Data Structure Basics](https://github.com/saeed-saffari/Python-for-Economics-2021-ATU/blob/main/MSc%20Planning%20Economics/1.%20Data%20Structure%20Basic.ipynb)
 - Python Statements and Functions
 - Packages:
   - NumPy
