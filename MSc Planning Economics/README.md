@@ -6,7 +6,8 @@
 - Python Setup
 - [Object and Data Structure Basics](https://github.com/saeed-saffari/Python-for-Economics-2021-ATU/blob/main/MSc%20Planning%20Economics/1.%20Data%20Structure%20Basic.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Python-for-Economics-2021-ATU/blob/main/MSc%20Planning%20Economics/1.%20Data%20Structure%20Basic.ipynb)
 
-- Python Statements and Functions
+- [Python Statements and Functions](https://github.com/saeed-saffari/Python-for-Economics-2021-ATU/blob/main/MSc%20Planning%20Economics/2.%20Conditional%20Control%20and%20Function.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Python-for-Economics-2021-ATU/blob/main/MSc%20Planning%20Economics/2.%20Conditional%20Control%20and%20Function.ipynb)
+- 
 - Packages:
   - NumPy
   - Pandas
