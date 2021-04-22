@@ -19,5 +19,5 @@ We will begin with an introduction to general-purpose programming: data types, c
 ## Parts
 
 - [MSc Planning Economics](https://github.com/saeed-saffari/Python-for-Economics-2021-ATU/tree/main/MSc%20Planning%20Economics)
-- [BSc Econometrics](https://github.com/saeed-saffari/Python-for-Economics-2021-ATU/tree/main/BSc%20Econometrics)
+- [MSc Econometrics](https://github.com/saeed-saffari/Python-for-Economics-2021-ATU/tree/main/BSc%20Econometrics)
 - [BSc Macroeconomics](https://github.com/saeed-saffari/Python-for-Economics-2021-ATU/tree/main/BSc%20Macroeconomics)
