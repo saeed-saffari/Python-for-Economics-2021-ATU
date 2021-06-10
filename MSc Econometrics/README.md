@@ -12,7 +12,7 @@
   - [Matplotlib](https://github.com/saeed-saffari/Python-for-Economics-2021-ATU/blob/main/MSc%20Econometrics/4.%20Matplotlib.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Python-for-Economics-2021-ATU/blob/main/MSc%20Econometrics/4.%20Matplotlib.ipynb)
   - [Pandas](https://github.com/saeed-saffari/Python-for-Economics-2021-ATU/blob/main/MSc%20Econometrics/5.%20Pandas.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Python-for-Economics-2021-ATU/blob/main/MSc%20Econometrics/5.%20Pandas.ipynb)
  
-- [Econometrics Models](https://github.com/saeed-saffari/Python-for-Economics-2021-ATU/blob/main/MSc%20Econometrics/8.%20Econometrics.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Python-for-Economics-2021-ATU/blob/main/MSc%20Econometrics/8.%20Econometrics.ipynb)
+- [Econometrics Models ](https://github.com/saeed-saffari/Python-for-Economics-2021-ATU/blob/main/MSc%20Econometrics/8.%20Econometrics.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Python-for-Economics-2021-ATU/blob/main/MSc%20Econometrics/8.%20Econometrics.ipynb)
 
 
 ## The requirements and recommendations
